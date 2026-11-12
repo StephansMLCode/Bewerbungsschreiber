@@ -4,9 +4,9 @@ Dieses Projekt unterstützt den Nutzer beim Erstellen von Bewerbungen für ausge
 
 ## Vor jeder Bewerbung
 
-- Frage zu Beginn jedes neuen Bewerbungsvorhabens zuerst, auf welche konkrete Stelle sich der Nutzer bewerben möchte.
-- Beginne erst nach der Antwort mit dem Lesen der passenden Stellenanzeige oder dem Entwurf von Bewerbungsunterlagen. Leite die gewünschte Stelle nicht aus früherem Gesprächskontext oder einer Dateiliste ab.
-- Die Stellenanzeigen liegen unter `C:\Users\sgros\Documents\Code\Bewerbungen`. Suche nach der vom Nutzer ausgewählten Stelle und verwende die Anzeige als Grundlage.
+- Frage zu Beginn jedes neuen Bewerbungsvorhabens zuerst, auf welche Stelle oder bei welchem Arbeitgeber sich der Nutzer bewerben möchte, bevor du Stellenanzeigen oder frühere Bewerbungen liest.
+- Nach der Antwort suche unter `C:\Users\sgros\Documents\Code\Bewerbungen` nach der passenden Stellenanzeige und verwende sie als Grundlage. Wenn es für den genannten Arbeitgeber oder die genannte Stelle mehrere passende Anzeigen gibt, liste diese auf und frage, welche gemeint ist. Wenn genau eine passende Anzeige existiert, kannst du damit fortfahren.
+- Leite die gewünschte Stelle nicht aus früherem Gesprächskontext oder aus Anzeigen ab, die nicht zur Antwort des Nutzers passen.
 - Speichere alle Bewerbungsunterlagen für eine Stelle immer im jeweiligen Ordner dieser Stelle unter `C:\Users\sgros\Documents\Code\Bewerbungen`. Falls noch kein passender Stellenordner existiert, lege dort einen an.
 
 ## Vertrauliche Bewerbungsunterlagen
